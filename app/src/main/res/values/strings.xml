@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AuthGoogleProvider</string>
+    <string name="web_client_id">586096318630-us8fg3o2cps4vjldd23fnkhrteu8gc1i.apps.googleusercontent.com</string>
+</resources>
